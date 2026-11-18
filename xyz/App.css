@@ -1,0 +1,23 @@
+body {
+    background-color: #1a1a1a;
+    color: #eff1f6;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    width: 300px;
+    padding: 25px;
+    margin: 100px auto;
+    background-color: #282828;
+    border-radius: 8px;
+    text-align: center;
+    border: 1px solid #3e3e3e;
+}
+
+.card h2 {
+    color: #ffa116;
+}
+
+.card p {
+    color: #eff1f6;
+}

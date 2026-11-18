@@ -1,0 +1,44 @@
+[PRIORITY-ORDER]
+
+1. React State (useState, useEffect, useRef)
+2. Components & Props
+3. CRUD Operations
+4. Routing & Global State Management
+5. JavaScript (Functions, Operators, Objects, Arrays, Events)
+6. React (SPA vs MPA)
+7. Client-Server Architecture
+8. Web Applications & UI
+9. Reloading vs Re-rendering
+10. Import/Export
+11. Libraries (react-router-dom, react-icons, axios, react-toastify, swiper, react-data-table-component)
+12. GitHub Copilot Chat
+
+________________________________________________________________________________________________
+
+Test: 1 most important topic
+Max 50 words.
+Summary max 10 words.
+
+React State:-
+Managing data using 'useState', handling side effects using 'useEffect',
+and accessing DOM elements using 'useRef'. Changes in state trigger re-rendering.
+
+Summary:-
+React State: 'useState', 'useEffect', 'useRef', re-rendering.
+
+_________________________________________________________________________________________________
+
+Test: 2 most important topics
+Min 25 Max 50 words
+Summary/Caption/Key-words Min 2 Max 5 words.
+
+1. React Components & Props:- Components are reusable building blocks of React applications.
+Props are used to pass data from parent components to child components,
+making applications modular and easier to manage.
+
+Summary:- Components, Props, Reusability.
+
+2. CRUD Operations:- CRUD stands for Create, Read, Update and Delete.
+These operations manage application data using Axios for API requests and JSON Server as a backend.
+
+Summary:- Create, Read, Update, Delete.
